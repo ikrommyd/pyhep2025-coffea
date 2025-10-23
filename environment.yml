@@ -1,0 +1,12 @@
+name: coffea
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.*
+  - coffea>=2025.10.1,<2026
+  - dask>=2025.3.0,<2026
+  - distributed>=2025.3.0,<2026
+  - jupyterlab>=4.4.10,<5
+  - notebook>=7.4.7,<8
+  - dask-labextension>=7.0.0,<8
+  - ipywidgets>=8.1.7,<9
