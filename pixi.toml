@@ -14,7 +14,7 @@ depends-on = ["lab"]
 
 [dependencies]
 python = "3.13.*"
-coffea = ">=2025.10.1,<2026"
+coffea = ">=2025.10.2,<2026"
 dask = ">=2025.3.0,<2026"
 distributed = ">=2025.3.0,<2026"
 jupyterlab = ">=4.4.10,<5"
